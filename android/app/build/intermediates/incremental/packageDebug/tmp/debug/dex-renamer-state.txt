@@ -1,0 +1,4 @@
+#Wed May 16 23:30:05 CEST 2018
+base.0=/Users/carmen/Git/share-places/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
