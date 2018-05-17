@@ -1,3 +1,13 @@
+## Credits
+
+This project was created following the introduction course to React Native:
+
+https://www.youtube.com/watch?v=6ZnfsJ6mM5c
+
+'React Native by Example' by Academind
+
+## React Native
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
